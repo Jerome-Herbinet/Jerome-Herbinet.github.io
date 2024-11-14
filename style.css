@@ -80,7 +80,7 @@ main section:not(:last-child) {
   text-align: center;
 }
 
-a .fab {
+a .fab, a .fas {
   color: white;
 }
 
