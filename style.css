@@ -69,7 +69,7 @@ main section:not(:last-child) {
   border-bottom: 1px solid #ccc;
 }
 
-.fab {
+.fab, .fas {
   border: 1px solid white;
   border-radius: 50%;
   font-size: 1.5em;
